@@ -2,10 +2,12 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.bitroundradio">
 
-
-
-
-
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_MIEDIA_STORAGE" />
+    <uses-permission android:name="android.permission.ACTION_OPEN_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
@@ -15,10 +17,22 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BitRoundRadio">
         <activity
+            android:name=".Activity.MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.List_Item_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.PlayerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.OnlineMusicActivity"
+            android:exported="false" />
+        <activity
             android:name=".Activity.LocalMuiscActivity"
             android:exported="false" />
         <activity
-            android:name=".Activity.StartActivity"
+            android:name=".Activity.Activity_Start"
             android:exported="false" />
     </application>
 

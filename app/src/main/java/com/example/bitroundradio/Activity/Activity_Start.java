@@ -2,9 +2,7 @@ package com.example.bitroundradio.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.os.Bundle;
-
-public class StartActivity extends AppCompatActivity {
+public class Activity_Start extends AppCompatActivity {
 
 
 }

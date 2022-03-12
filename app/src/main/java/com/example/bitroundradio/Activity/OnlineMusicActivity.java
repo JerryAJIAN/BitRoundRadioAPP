@@ -1,15 +1,14 @@
 package com.example.bitroundradio.Activity;
 
-import android.os.Bundle;
-
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.bitroundradio.R;
+import android.os.Bundle;
 
-public class LocalMuiscActivity extends AppCompatActivity {
+public class OnlineMusicActivity extends AppCompatActivity {
 
+    @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_local_muisc);
+        setContentView(R.layout.activity_online_music);
     }
 }
