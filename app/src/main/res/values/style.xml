@@ -1,17 +1,4 @@
-<resources>
-    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
-        <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <item name="colorAccent">@color/colorAccent</item>
-        <item name="android:windowTranslucentStatus">false</item>
-        <item name="android:windowTranslucentNavigation">true</item>
-        <item name="android:statusBarColor">@android:color/transparent</item>
-    </style>
-</resources>
-
-
-===============================================================
+<?xml version="1.0" encoding="utf-8"?>
 
 <resources>
 
@@ -22,7 +9,7 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
-    
+
     <style name="netease_toolbar_title" parent="@style/TextAppearance.Widget.AppCompat.Toolbar.Title">
         <!--设置主标题的样式-->
         <item name="android:textColor">@android:color/white</item>
@@ -34,7 +21,7 @@
         <item name="android:textColor">@android:color/white</item>
         <item name="android:textSize">14sp</item>
     </style>
-    
+
     <style name="netease_music_time_text_style">
         <!--设置播放进度条时间显示的style-->
         <item name="android:layout_width">wrap_content</item>
@@ -42,7 +29,7 @@
         <item name="android:textColor">#ccc</item>
         <item name="android:textSize">7dp</item>
     </style>
-    
+
     <style name="netease_music_time_seek_bar_style" parent="Widget.AppCompat.SeekBar">
         <!--设置播放进度条的style-->
         <item name="android:layout_width">wrap_content</item>

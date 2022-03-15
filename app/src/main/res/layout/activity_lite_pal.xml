@@ -7,6 +7,7 @@
     <!--添加数据-->
     <Button
         android:id="@+id/create_database"
+
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="添加数据">

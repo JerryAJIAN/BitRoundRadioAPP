@@ -5,10 +5,18 @@
       <map>
         <entry key="..\:/Porject/AndroidProject/BitRoundRadio/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.2195" />
         <entry key="..\:/Porject/AndroidProject/BitRoundRadio/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.2195" />
+        <entry key="..\:/Porject/AndroidProject/BitRoundRadio/app/src/main/res/layout/activity_list_item.xml" value="0.358695652173913" />
         <entry key="..\:/Porject/AndroidProject/BitRoundRadio/app/src/main/res/layout/activity_lite_pal.xml" value="0.358695652173913" />
         <entry key="..\:/Porject/AndroidProject/BitRoundRadio/app/src/main/res/layout/activity_local_muisc.xml" value="0.358695652173913" />
         <entry key="..\:/Porject/AndroidProject/BitRoundRadio/app/src/main/res/layout/activity_main.xml" value="0.3567708333333333" />
+        <entry key="..\:/Porject/AndroidProject/BitRoundRadio/app/src/main/res/layout/activity_online_music.xml" value="0.358695652173913" />
+        <entry key="..\:/Porject/AndroidProject/BitRoundRadio/app/src/main/res/layout/activity_player.xml" value="0.358695652173913" />
         <entry key="..\:/Porject/AndroidProject/BitRoundRadio/app/src/main/res/layout/activity_start.xml" value="0.358695652173913" />
+        <entry key="..\:/Porject/AndroidProject/BitRoundRadio/app/src/main/res/layout/layout_discview.xml" value="0.358695652173913" />
+        <entry key="..\:/Porject/AndroidProject/BitRoundRadio/app/src/main/res/layout/music_item.xml" value="0.358695652173913" />
+        <entry key="..\:/Porject/AndroidProject/BitRoundRadio/app/src/main/res/layout/nav_header.xml" value="0.358695652173913" />
+        <entry key="..\:/Porject/AndroidProject/BitRoundRadio/app/src/main/res/layout/playinglist_item.xml" value="0.358695652173913" />
+        <entry key="..\:/Porject/AndroidProject/BitRoundRadio/app/src/main/res/layout/strings.xml" value="0.358695652173913" />
       </map>
     </option>
   </component>

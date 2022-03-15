@@ -5,8 +5,8 @@
     <version value="10"></version>
 
     <list>
-        <mapping class="com.example.simplemusic.db.MyMusic" />
-        <mapping class="com.example.simplemusic.db.LocalMusic" />
-        <mapping class="com.example.simplemusic.db.PlayingMusic" />
+        <mapping class="com.example.bitroundradio.db.MyMusic" />
+        <mapping class="com.example.bitroundradio.db.LocalMusic" />
+        <mapping class="com.example.bitroundradio.db.PlayingMusic" />
     </list>
 </litepal>

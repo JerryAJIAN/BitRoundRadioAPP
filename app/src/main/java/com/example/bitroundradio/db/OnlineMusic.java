@@ -1,4 +1,4 @@
 package com.example.bitroundradio.db;
 
-public class MyMusic {
+public class OnlineMusic {
 }
