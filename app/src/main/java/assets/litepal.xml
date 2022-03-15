@@ -2,11 +2,13 @@
 <litepal>
     <dbname value="MusicList"></dbname>
 
-    <version value="10"></version>
+    <version value="1"></version>
 
     <list>
         <mapping class="com.example.bitroundradio.db.MyMusic" />
         <mapping class="com.example.bitroundradio.db.LocalMusic" />
         <mapping class="com.example.bitroundradio.db.PlayingMusic" />
     </list>
+
+
 </litepal>
