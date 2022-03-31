@@ -6,13 +6,15 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.bitroundradio.R;
 
-//import org.litepal.LitePal;
-
-public class MainActivity extends AppCompatActivity {
+public class Bitroundradio extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        LitePal.initalize(this);
         setContentView(R.layout.activity_main);
+
     }
+
+
 }
