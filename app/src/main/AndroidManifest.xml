@@ -18,6 +18,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BitRoundRadio">
         <activity
+            android:name=".Activity.MainActivity"
+            android:exported="false" />
+        <activity
             android:name=".Activity.File_list"
             android:exported="false" />
         <activity
