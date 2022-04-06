@@ -1,16 +1,4 @@
-package com.example.bitroundradio.Activity;
-
-import androidx.appcompat.app.AppCompatActivity;
-
-import android.os.Bundle;
-
-package org.liky.music;
-
-import java.util.List;
-import java.util.Map;
-
-import org.liky.music.adapter.MusicAdapter;
-import org.liky.music.util.MusicDAOUtils;
+package com.example.bitroundradio.SimpleUISetting;
 
 import android.app.Activity;
 import android.media.MediaPlayer;
@@ -28,6 +16,12 @@ import android.widget.SeekBar;
 import android.widget.SeekBar.OnSeekBarChangeListener;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import org.liky.music.adapter.MusicAdapter;
+import org.liky.music.util.MusicDAOUtils;
+
+import java.util.List;
+import java.util.Map;
 
 public class MainActivity extends Activity {
 

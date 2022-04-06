@@ -8,7 +8,7 @@
     android:fitsSystemWindows="true">
 
     <!--定义标题栏的布局-->
-    <android.support.v7.widget.Toolbar
+    <androidx.appcompat.widget.Toolbar
         android:id="@+id/toolbar"
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
@@ -36,7 +36,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" />
         </LinearLayout>
-    </android.support.v7.widget.Toolbar>
+    </androidx.appcompat.widget.Toolbar>
 
     <!--设置标题栏的布局视图-->
     <View
@@ -48,7 +48,7 @@
 
     <!--include包含唱片的布局，并将其放在播放栏上面-->
     <include
-        layout="@layout/layout_discview"
+        layout='@layout/layout_discview'
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_above="@id/music_time"

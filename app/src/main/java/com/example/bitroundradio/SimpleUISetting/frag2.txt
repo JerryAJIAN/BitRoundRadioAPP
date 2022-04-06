@@ -1,4 +1,4 @@
-package com.example.bitroundradio.Activity;
+package com.example.bitroundradio.SimpleUISetting;
 
 
 import android.os.Bundle;
